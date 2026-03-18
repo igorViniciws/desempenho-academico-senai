@@ -23,7 +23,7 @@ A ideia é automatizar o cálculo das médias, identificar quem está em recuper
 
 ## Mapa de Empatia
 
-![Mapa de Empatia](./img/mapa-empatia.png)
+![Mapa de Empatia](./Documentos/Mapa da empatia - Igor Vinicius.png)
 
 
 
