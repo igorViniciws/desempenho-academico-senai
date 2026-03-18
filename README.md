@@ -35,10 +35,6 @@ A ideia é automatizar o cálculo das médias, identificar quem está em recuper
 
 
 
-### Link
-[Ver Kanban]([(https://miro.com/app/board/uXjVGwY_mH0=/?moveToWidget=3458764664127662270&cot=14)])
-
-
 
 ## Requisitos Funcionais
 - Ler lista de alunos e suas notas  
