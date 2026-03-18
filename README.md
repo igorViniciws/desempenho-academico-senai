@@ -64,3 +64,36 @@ A ideia é automatizar o cálculo das médias, identificar quem está em recuper
 ## Como executar
 
 1. Clone o repositório:
+https://github.com/igorViniciws/desempenho-academico-senai
+
+2. Ente na pasta:
+
+cd desempenho-academico-senai
+
+
+3. Rode o programa:
+
+python main.py
+
+
+---
+
+## Saída do sistema
+
+O programa gera um arquivo "resultado.txt" com o resultado da análise.
+
+Por exemplo:
+
+
+RELATÓRIO DE DESEMPENHO ACADÊMICO
+
+Alunos em Recuperação:
+Maria - Média: 5.50
+
+Top Student:
+João - Média: 9.33
+
+
+
+## Autor
+Igor Vinicius Santos Vicente
