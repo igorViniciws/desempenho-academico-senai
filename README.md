@@ -23,14 +23,13 @@ A ideia é automatizar o cálculo das médias, identificar quem está em recuper
 
 ## Mapa de Empatia
 
-![Mapa de Empatia](./Documentos/Mapa da empatia - Igor Vinicius.png)
+![Mapa de Empatia](./Documentos/Mapa da empatia - Igor Vinicius (1).jpg)
 
 
 
 ## Kanban
 
-### Print
-![Kanban](./img/kanban.png)
+![Kanban](./img/kanban - igor.jpg)
 
 ### Link
 [Ver Kanban](COLE_AQUI_O_LINK)
