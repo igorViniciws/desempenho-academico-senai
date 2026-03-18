@@ -61,3 +61,6 @@ A ideia é automatizar o cálculo das médias, identificar quem está em recuper
 - Dados inválidos são ignorados  
 
 
+## Como executar
+
+1. Clone o repositório:
